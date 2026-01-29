@@ -1,20 +1,24 @@
-# SNAKE WATER Game
 
-## Description
-This project is a simple Python-based application created for learning and practice purposes.
+---
+
+# 🐍💧🔫 SNAKE-WATER-Game
+
+```md
+# Snake Water Gun Game 🐍💧🔫
+
+A Python implementation of the classic Snake Water Gun game.
 
 ## Features
-- Easy to run
-- Beginner friendly
-- Console based
-
-## Requirements
-- Python 3.x
+- User vs computer
+- Random computer moves
+- Console based game
+- Fun and simple
 
 ## How to Run
+
 ```bash
 python main.py
-```
+
 
 ## Author
 Dhruv
